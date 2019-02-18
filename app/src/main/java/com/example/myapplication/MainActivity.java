@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         btn1.setEnabled(true);
         btn2.setEnabled(true);
         btn3.setEnabled(true);
+        //hello
 
         score = 0;
         total = 0;
