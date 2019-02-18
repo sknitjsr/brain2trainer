@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         btn2.setEnabled(true);
         btn3.setEnabled(true);
         //hello
-
+//hello1
         score = 0;
         total = 0;
         scr.setText("0/0");
