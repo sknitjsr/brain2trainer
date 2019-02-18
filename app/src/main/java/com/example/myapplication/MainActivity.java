@@ -14,7 +14,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button btn , pg;
+    Button btn , pg;////
     int incorrectans;
     TextView tv , timer;
     TextView result , scr;
